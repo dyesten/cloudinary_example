@@ -1,0 +1,17 @@
+bin
+build
+Include
+include
+lib
+Lib
+local
+man
+share
+Scripts
+scripts
+.Python
+*.pyc
+*~
+*.sqlite3
+.DS_Store
+cloudinary_example/staticfiles
